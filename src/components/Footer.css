@@ -1,0 +1,13 @@
+footer p {
+    font-size: 1em;
+    color: #1347b6;
+}
+
+footer p a {
+    color: #56700f;
+    text-decoration: none;
+}
+
+footer p a:hover {
+    color: #a1da11;
+}
